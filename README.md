@@ -48,7 +48,7 @@ Grouped bar chart of total production budget per genre
 
 ### 🍿 Pie Chart: Domestic Gross by Rating  
 Shows how much each MPAA rating contributed to domestic gross  
-![Domestic by Rating](images/domestic_by_rating_pie.png)
+![Domestic by Rating](https://github.com/Dheeru0133/Eda/blob/main/images/domestic_by_rating_pie.png?raw=true)
 
 ### 📈 Line Chart: Mean Worldwide Gross per Year  
 Tracks average worldwide gross of movies over the years  
