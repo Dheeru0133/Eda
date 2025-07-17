@@ -64,7 +64,7 @@ Relationship between production budget and worldwide gross
 
 ### 🏢 Top 5 Distributors by Revenue  
 Horizontal bar chart of top-grossing distributors  
-![Top Distributors](images/top5_distributors.png)
+![Top Distributors](https://github.com/Dheeru0133/Eda/blob/main/images/top5_distributors.png?raw=true)
 
 ### 🔍 Correlation Heatmap  
 `df.corr(numeric_only=True)`  
