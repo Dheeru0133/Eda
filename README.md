@@ -68,7 +68,7 @@ Horizontal bar chart of top-grossing distributors
 
 ### 🔍 Correlation Heatmap  
 `df.corr(numeric_only=True)`  
-![Heatmap](images/heatmap.png)
+![Heatmap](https://github.com/Dheeru0133/Eda/blob/main/images/correlation_heatmap.png?raw=true)
 
 ---
 
