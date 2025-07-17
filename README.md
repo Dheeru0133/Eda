@@ -60,7 +60,7 @@ Line plot based on extracted `release_year` column
 
 ### 📉 Scatter Plot: Budget vs Worldwide Gross  
 Relationship between production budget and worldwide gross  
-![Scatter](images/scatter_budget_vs_gross.png)
+![Scatter](https://github.com/Dheeru0133/Eda/blob/main/images/scatter_budget_vs_gross.png?raw=true)
 
 ### 🏢 Top 5 Distributors by Revenue  
 Horizontal bar chart of top-grossing distributors  
