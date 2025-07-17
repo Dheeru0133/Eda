@@ -21,7 +21,7 @@ To explore and visualize the relationship between movie features (like budget, r
 ![Info](https://github.com/Dheeru0133/Eda/blob/main/images/df_info.png?raw=true)
 
 ### ✅ Summary Statistics  
-![Describe](images/df_describe.png)
+![Describe](https://github.com/Dheeru0133/Eda/blob/main/images/df_describe.png?raw=true)
 
 ### ✅ Null Count Before & After Cleaning  
 ![Null Check](images/df_isnull.png)
