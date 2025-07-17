@@ -18,7 +18,7 @@ To explore and visualize the relationship between movie features (like budget, r
 ![Top Rows](https://github.com/Dheeru0133/Eda/blob/main/images/df_head.png?raw=true)
 
 ### ✅ Dataset Info (dtypes, nulls)  
-![Info](images/df_info.png)
+![Info](https://github.com/Dheeru0133/Eda/blob/main/images/df_info.png?raw=true)
 
 ### ✅ Summary Statistics  
 ![Describe](images/df_describe.png)
