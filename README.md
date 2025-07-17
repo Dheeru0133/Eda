@@ -40,7 +40,7 @@ To explore and visualize the relationship between movie features (like budget, r
 
 ### 💰 Histogram of Worldwide Gross  
 `df['worldwide_gross'].plot(kind='hist')`  
-![Histogram](images/worldwide_gross_hist.png)
+![Histogram](https://github.com/Dheeru0133/Eda/blob/main/images/worldwide_gross_hist.png?raw=true)
 
 ### 🎨 Bar Chart: Total Budget by Genre  
 Grouped bar chart of total production budget per genre  
