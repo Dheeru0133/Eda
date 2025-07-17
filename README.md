@@ -32,7 +32,7 @@ To explore and visualize the relationship between movie features (like budget, r
 
 ### 🎭 Genre Distribution  
 `df['genre'].value_counts()`  
-![Genre Count](images/genre_value_counts.png)
+![Genre Count](https://github.com/Dheeru0133/Eda/blob/main/images/genre_counts.png?raw=true)
 
 ### 🎞️ MPAA Rating Distribution  
 `df['mpaa_rating'].value_counts()`  
