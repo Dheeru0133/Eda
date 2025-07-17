@@ -36,7 +36,7 @@ To explore and visualize the relationship between movie features (like budget, r
 
 ### 🎞️ MPAA Rating Distribution  
 `df['mpaa_rating'].value_counts()`  
-![Rating Count](images/rating_value_counts.png)
+![Rating Count](https://github.com/Dheeru0133/Eda/blob/main/images/mpaa_counts.png?raw=true)
 
 ### 💰 Histogram of Worldwide Gross  
 `df['worldwide_gross'].plot(kind='hist')`  
