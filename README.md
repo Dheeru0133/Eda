@@ -56,7 +56,7 @@ Tracks average worldwide gross of movies over the years
 
 ### 🔁 Line Chart: Mean Gross by New Year Column  
 Line plot based on extracted `release_year` column  
-![Release Year Line](images/release_year_line.png)
+![Release Year Line](https://github.com/Dheeru0133/Eda/blob/main/images/release_year_line.png?raw=true)
 
 ### 📉 Scatter Plot: Budget vs Worldwide Gross  
 Relationship between production budget and worldwide gross  
