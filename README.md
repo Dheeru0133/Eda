@@ -15,7 +15,7 @@ To explore and visualize the relationship between movie features (like budget, r
 ## 🧼 Data Cleaning & Initial Exploration
 
 ### ✅ Top 5 Rows  
-![Top Rows](images/df_head.png)
+![Top Rows](https://github.com/Dheeru0133/Eda/blob/main/images/df_head.png?raw=true)
 
 ### ✅ Dataset Info (dtypes, nulls)  
 ![Info](images/df_info.png)
