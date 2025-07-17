@@ -52,7 +52,7 @@ Shows how much each MPAA rating contributed to domestic gross
 
 ### 📈 Line Chart: Mean Worldwide Gross per Year  
 Tracks average worldwide gross of movies over the years  
-![Mean Gross Line](images/mean_gross_by_year.png)
+![Mean Gross Line](https://github.com/Dheeru0133/Eda/blob/main/images/mean_gross_by_year.png?raw=true)
 
 ### 🔁 Line Chart: Mean Gross by New Year Column  
 Line plot based on extracted `release_year` column  
