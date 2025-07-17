@@ -44,7 +44,7 @@ To explore and visualize the relationship between movie features (like budget, r
 
 ### 🎨 Bar Chart: Total Budget by Genre  
 Grouped bar chart of total production budget per genre  
-![Budget by Genre](images/budget_by_genre.png)
+![Budget by Genre](https://github.com/Dheeru0133/Eda/blob/main/images/budget_by_genre.png?raw=true)
 
 ### 🍿 Pie Chart: Domestic Gross by Rating  
 Shows how much each MPAA rating contributed to domestic gross  
